@@ -132,7 +132,17 @@
 
 <img width="1020" alt="ログイン画面" src="https://github.com/posse-ap/template-ph3-website/assets/33271639/45729c65-e442-43a4-abff-1ad4240ba5fe">
 
-
+   git push --set-upstream origin feature/kazu
 ### to goki
 [chatGPT](https://chat.openai.com/share/970bdfef-e3c2-456b-a1d9-d004fbb9986f)
 migrationの実行順のエラーだった、migrationの順番を変えたら解決したよ。
+
+migrationファイルの
+```
+2023_06_21_133727_create_choices_table.php
+```
+これを
+```
+2023_06_22_133727_create_choices_table.php
+```
+にしたらできた。
