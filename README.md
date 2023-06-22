@@ -131,3 +131,8 @@
 2. `Log in` を押すとフォームが正常に表示されていること
 
 <img width="1020" alt="ログイン画面" src="https://github.com/posse-ap/template-ph3-website/assets/33271639/45729c65-e442-43a4-abff-1ad4240ba5fe">
+
+
+### to goki
+[chatGPT](https://chat.openai.com/share/970bdfef-e3c2-456b-a1d9-d004fbb9986f)
+migrationの実行順のエラーだった、migrationの順番を変えたら解決したよ。
